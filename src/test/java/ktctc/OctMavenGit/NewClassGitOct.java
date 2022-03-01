@@ -6,10 +6,10 @@ public class NewClassGitOct {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("Hello 2");
-		System.out.println("Updated by Ganesh 1");
-		System.out.println("updated code by onkar");
-
+		System.out.println("updated code by onkar        ");
+		System.out.println("updated code by onkar 2");
 
 	}
 
 }
+                     
